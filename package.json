@@ -1,0 +1,23 @@
+{
+  "name": "express-error-jade-cw-itayanna",
+  "version": "1.0.0",
+  "description": "### For all exercises: When a link does not have an endpoint in your server send a 404 message that you create. It can be anything other than the default message.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2019-spring/express-error-jade-cw-itayanna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2019-spring/express-error-jade-cw-itayanna/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2019-spring/express-error-jade-cw-itayanna#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
